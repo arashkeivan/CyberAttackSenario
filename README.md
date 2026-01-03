@@ -23,11 +23,11 @@
 · Android Forensics Guide
 · Telegram Security Guidelines
 
-📞 گزارش مشکل
+📞 keivansystem.ir@gmail.com
 
 برای گزارش باگ یا پیشنهاد:
 
-1. ایمیل: security-research@example.com
+1. ایمیل: 
 2. فقط برای مسائل مرتبط با امنیت
 
 ---
